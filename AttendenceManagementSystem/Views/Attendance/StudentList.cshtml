@@ -1,0 +1,45 @@
+﻿
+@model List<AttendenceManagementSystem.ViewModel.EditAttendanceStudentListVM>
+@{
+    ViewData["Title"] = "DateWiseAttenadanceList";
+}
+
+@Html.Partial("_AttendanceDashboard")
+
+<div class="container">
+    <div class="container-fluid" style="padding-top:60px;padding-bottom:60px;position:relative;">
+        <h2 class="text-center">Student List</h2>
+        <div class="card" style="width:100%;height:100%;margin-left: 50%;transform: translateX(-50%);">
+            <div class="card-body">
+                <h5>Class : @ViewBag.ClassName.Classname</h5>
+                <h5>Subject : @ViewBag.CourseName.CourseName</h5>
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Name</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>                        
+                        @foreach (var item in Model)
+                        {                          
+                            <tr>
+                                <td>@item.StuIdVM</td>
+                                <td>@item.StuNameVM</td>
+                                <td><a asp-controller="Attendance" asp-action="DateWiseAttendanceList" 
+                                       class="btn btn-outline-secondary" asp-route-Classid="@ViewBag.ClassName.Id"
+                                        asp-route-Courseid="@ViewBag.CourseName.Id"
+                                       asp-route-Studentid="@item.StuIdVM" target="_blank">
+                                    Edit Attendance
+                                    </a></td>
+                            </tr>                            
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+

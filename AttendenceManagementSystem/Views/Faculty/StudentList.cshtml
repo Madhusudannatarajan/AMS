@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewData["Title"] = "StudentList";
+}
+@model List<AttendenceManagementSystem.ViewModel.StudentVM>
+
+@Html.Partial("_FacultyDashboard")
+
+<div class="container">
+    <div class="container-fluid" style="padding-top:60px;padding-bottom:60px;position:relative;">
+        <h2 class="text-center"> @ViewBag.className.Classname Student List </h2>
+        <div class="card" style="width:80%;margin-left: 50%;transform: translateX(-50%);">
+            <div class="card-body">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Name</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.Sid.</td>
+                                <td>@item.SFirstName &nbsp; @item.SLastName.</td>
+                                <td>
+                                    <a asp-controller="Faculty" asp-action="StudentInfo" asp-route-Id="@item.Sid" class="btn btn-outline-secondary">Details</a>
+                                    <a asp-controller="Faculty" asp-action="SentMessage" asp-route-SId="@item.Sid" class="btn btn-outline-secondary">Sent Message</a>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

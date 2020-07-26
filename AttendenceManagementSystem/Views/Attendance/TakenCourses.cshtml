@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewData["Title"] = "TakenCourses";
+}
+
+@model List<AttendenceManagementSystem.ViewModel.FTcourses>
+
+@Html.Partial("_AttendanceDashboard")
+
+<div class="container">
+    <div class="container-fluid" style="padding-top:20px;padding-bottom:80px;position:relative;">
+        <div class="card" style="margin-left:50%;transform: translateX(-50%);width:600px;">
+            <div class="card-body">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Class</th>
+                            <th>Course</th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            @foreach (var item in Model)
+                            {
+                            <tr>
+                                <td>@item.classname</td>
+                                <td>@item.coursename</td>
+                                <td><a type="button" class="btn btn-outline-secondary" href="#">Details</a></td>
+                                <td><a asp-controller="Attendance" asp-action="DateWiseAttenadanceList" type="button" class="btn btn-outline-secondary">Edit Attendance</a></td>
+                            </tr>
+                        }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+   </div>
+

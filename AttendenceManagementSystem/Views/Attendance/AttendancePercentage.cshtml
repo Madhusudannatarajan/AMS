@@ -1,0 +1,44 @@
+﻿
+@model List<AttendenceManagementSystem.ViewModel.AttendancePersantageVM>
+@{
+    ViewData["Title"] = "AttendancePercentage";
+}
+
+@Html.Partial("_AttendanceDashboard")
+
+<div class="container">
+    <div class="container-fluid" style="padding-top:20px;padding-bottom:80px;position:relative;">
+
+        <div class="card" style="margin-left: 50%;transform: translateX(-50%);position:relative;width:100%;height:100%;">
+            <div class="card-body">
+                <h4>Class : @ViewBag.ClassName</h4>
+                <h4>Subject : @ViewBag.CourseName</h4>
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Student Id</th>
+                            <th>Student Name</th>
+                            <th>Totall Class</th>
+                            <th>Present</th>
+                            <th>Absent</th>
+                            <th>Absent Persantage</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                        <tr>
+                            <td>@item.StuidVM</td>
+                            <td>@item.StuNameVM</td>
+                            <td>@item.TotallClassVM</td>
+                            <td>@item.PresentVM</td>
+                            <td>@item.AbsentVM</td>
+                            <td>@item.PersantageVM%</td>
+                        </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

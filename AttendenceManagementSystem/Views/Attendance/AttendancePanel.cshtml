@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewData["Title"] = "AttendanceView";
+}
+@model List<AttendenceManagementSystem.ViewModel.FTcourses>
+
+@Html.Partial("_AttendanceDashboard")
+
+<div class="container">
+    <div class="container-fluid" style="padding-top:20px;padding-bottom:80px;position:relative;">
+        <h2 class="text-center" style="">Taken Courses</h2>
+        <div class="card" style="margin-left: 50%;transform: translateX(-50%);position:relative;width:100%;height:100%;">
+            <div class="card-body">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Class</th>
+                            <th>Course</th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            @foreach (var item in Model)
+                            {
+                        <tr>
+                            <td>@item.classname</td>
+                            <td>@item.coursename</td>
+                            <td><a asp-controller="Attendance" asp-action="AttendancePercentage" 
+                                   class="btn btn-outline-secondary"
+                                   asp-route-classId="@item.ClassNameId" 
+                                   asp-route-courseId="@item.CoursNameId">
+                                Details
+                                </a>
+                            </td>
+                            <td>
+                                <a asp-controller="Attendance" asp-action="StudentList"
+                                   class="btn btn-outline-secondary"
+                                   asp-route-classId="@item.ClassNameId" 
+                                   asp-route-courseId="@item.CoursNameId">
+                                    Edit Attendance
+                                </a>
+                            </td>
+                        </tr>
+                            }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

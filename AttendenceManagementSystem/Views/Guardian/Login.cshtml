@@ -1,0 +1,41 @@
+﻿@model AttendenceManagementSystem.Models.Guardian
+@{
+    ViewData["Title"] = "Login";
+}
+
+@Html.Partial("nav")
+<div class="container">
+        <div class="container-fluid" style="padding-top:80px;padding-bottom:60px;position:relative;">
+
+            <h3 class="text-sm-center">Sign in to Guardian Dashboard</h3>
+            <div class="card" style="width:40%;margin-left: 50%;transform: translateX(-50%);background-color:white;">
+                <div class="card-body">
+                    <form asp-controller="Guardian" asp-action="Login" method="post">
+                        <div class="form-group">
+                            <input asp-for="UserName" class="form-control form-control-sm" type="text" id="name" placeholder="Username">
+                        </div>
+                        <div class="form-group">
+                            <input asp-for="Password" class="form-control" type="password" id="password" placeholder="Password">
+                        </div>
+
+                        @*<div>
+                            @ViewBag.S
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="UserName"></label>
+                            <input asp-for="UserName" />
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Password"></label>
+                            <input asp-for="Password" />
+                        </div>*@
+
+                        <span style="color:red;">@ViewBag.S</span>
+                        <button type="submit" class="btn btn-primary btn-block">Login</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+</div>

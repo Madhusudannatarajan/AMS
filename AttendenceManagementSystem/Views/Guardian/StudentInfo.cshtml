@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewData["Title"] = "StudentInfo";
+}
+@model  List<AttendenceManagementSystem.ViewModel.TeacherCourseVM>
+
+@Html.Partial("_GuardianDashboard")
+
+<div class="container">
+    <div class="container-fluid" style="padding-top:60px;padding-bottom:60px;position:relative;">
+        <h2 class="text-center">Student Details</h2>
+        <div class="card" style="margin-left: 50%;transform: translateX(-50%);width:80%;">
+            <div class="card-body">
+                <h5>Name : @ViewBag.name.FirstName&nbsp;@ViewBag.name.LastName</h5>               
+                <h5>Class @ViewBag.ClassName.Classname</h5>               
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Course</th>
+                            <th>Teacher</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.CourseNameVM</td>
+                                <td>@item.TeacherNameVM</td>
+                                <td><a asp-controller="Guardian" asp-action="SentMessage" asp-route-TechId="@item.TeacherIdVM" class="btn btn-outline-secondary">Sent Message</a></td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+

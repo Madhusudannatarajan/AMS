@@ -1,0 +1,585 @@
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.AssemblyInfo.cs
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.deps.json
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.runtimeconfig.json
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.runtimeconfig.dev.json
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.dll
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.pdb
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.dll
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.pdb
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorAssemblyInfo.cache
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorAssemblyInfo.cs
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.TagHelpers.input.cache
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.TagHelpers.output.cache
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorCoreGenerate.cache
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorTargetAssemblyInfo.cs
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.pdb
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.dll
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.pdb
+C:\Users\Student\source\repos\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csproj.CopyComplete
+F:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.deps.json
+F:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.runtimeconfig.json
+F:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.runtimeconfig.dev.json
+F:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.dll
+F:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.pdb
+F:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.dll
+F:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.pdb
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csprojAssemblyReference.cache
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csproj.CoreCompileInputs.cache
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorAssemblyInfo.cache
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorAssemblyInfo.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.AssemblyInfoInputs.cache
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.AssemblyInfo.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.TagHelpers.input.cache
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.TagHelpers.output.cache
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorCoreGenerate.cache
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorTargetAssemblyInfo.cache
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorTargetAssemblyInfo.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.pdb
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.dll
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.pdb
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csproj.CopyComplete
+I:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.deps.json
+I:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.runtimeconfig.json
+I:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.runtimeconfig.dev.json
+I:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.dll
+I:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.pdb
+I:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.dll
+I:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.pdb
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csprojAssemblyReference.cache
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csproj.CoreCompileInputs.cache
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorAssemblyInfo.cache
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorAssemblyInfo.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.AssemblyInfoInputs.cache
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.AssemblyInfo.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.TagHelpers.input.cache
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.TagHelpers.output.cache
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorCoreGenerate.cache
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorTargetAssemblyInfo.cache
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorTargetAssemblyInfo.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.pdb
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.dll
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.pdb
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csproj.CopyComplete
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Login.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Login.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Login.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\Login.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.deps.json
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.runtimeconfig.json
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.runtimeconfig.dev.json
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.dll
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.pdb
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.dll
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.pdb
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csproj.CoreCompileInputs.cache
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorAssemblyInfo.cache
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorAssemblyInfo.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.AssemblyInfoInputs.cache
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.AssemblyInfo.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.TagHelpers.input.cache
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.TagHelpers.output.cache
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorCoreGenerate.cache
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\Login.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Login.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Login.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorTargetAssemblyInfo.cache
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorTargetAssemblyInfo.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.pdb
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.dll
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.pdb
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csproj.CopyComplete
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csprojAssemblyReference.cache
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Dashboard.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Dashboard.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceList.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Inbox.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Inbox.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\nav.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AttendanceDashboard.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FacultyDashboard.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_GuardianDashboard.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.deps.json
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.runtimeconfig.json
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.runtimeconfig.dev.json
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.dll
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.pdb
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.dll
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.pdb
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csproj.CoreCompileInputs.cache
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorAssemblyInfo.cache
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorAssemblyInfo.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.AssemblyInfoInputs.cache
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.AssemblyInfo.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.TagHelpers.input.cache
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.TagHelpers.output.cache
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorCoreGenerate.cache
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceList.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\Login.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Dashboard.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Inbox.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Login.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Dashboard.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Inbox.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Login.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\nav.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AttendanceDashboard.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FacultyDashboard.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_GuardianDashboard.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorTargetAssemblyInfo.cache
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorTargetAssemblyInfo.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.pdb
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.dll
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.pdb
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csproj.CopyComplete
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csprojAssemblyReference.cache
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ClassAndCourse.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ClassAndCourse.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\StudentList.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\StudentInfo.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\SentMessage.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\SentMessage.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\StudentInfo.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\StudentList.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\StudentInfo.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\StudentInfo.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\ClassAttendanceList.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\DateWiseAttenadanceList.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\EditAttendance.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendancePanel.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendancePanel.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\ClassAttendanceList.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\DateWiseAttenadanceList.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\EditAttendance.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\TakenCourses.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\TakenCourses.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ReadMessage.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\SentMessage.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\ShowSentMessage.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ShowSentMessage.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\ReadMessage.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\InboxReadMessage.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\InboxReadMessage.g.cshtml.cs
+I:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceLogin.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceLogin.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\InboxReadMessage.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ReadMessage.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ShowSentMessage.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\InboxReadMessage.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\ReadMessage.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\SentMessage.g.cshtml.cs
+F:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\ShowSentMessage.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.deps.json
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.runtimeconfig.json
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.runtimeconfig.dev.json
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.dll
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.pdb
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.dll
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.pdb
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csprojAssemblyReference.cache
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csproj.CoreCompileInputs.cache
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorAssemblyInfo.cache
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorAssemblyInfo.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.AssemblyInfoInputs.cache
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.AssemblyInfo.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.TagHelpers.input.cache
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.TagHelpers.output.cache
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorCoreGenerate.cache
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceList.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceLogin.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendancePanel.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\ClassAttendanceList.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\DateWiseAttenadanceList.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\EditAttendance.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\Login.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\TakenCourses.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ClassAndCourse.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Dashboard.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Inbox.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\InboxReadMessage.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Login.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ReadMessage.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\SentMessage.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ShowSentMessage.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\StudentInfo.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\StudentList.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Dashboard.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Inbox.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\InboxReadMessage.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Login.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\ReadMessage.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\SentMessage.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\ShowSentMessage.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\StudentInfo.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\nav.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AttendanceDashboard.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FacultyDashboard.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_GuardianDashboard.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorTargetAssemblyInfo.cache
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorTargetAssemblyInfo.cs
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.pdb
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.dll
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.pdb
+G:\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csproj.CopyComplete
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.deps.json
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.runtimeconfig.json
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.dll
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.pdb
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.dll
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.pdb
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.AssemblyInfo.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.TagHelpers.input.cache
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.TagHelpers.output.cache
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorCoreGenerate.cache
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceList.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceLogin.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendancePanel.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\ClassAttendanceList.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\DateWiseAttenadanceList.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\EditAttendance.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\Login.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\TakenCourses.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ClassAndCourse.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Dashboard.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Inbox.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\InboxReadMessage.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Login.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ReadMessage.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\SentMessage.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ShowSentMessage.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\StudentInfo.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\StudentList.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Dashboard.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Inbox.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\InboxReadMessage.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Login.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\ReadMessage.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\SentMessage.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\ShowSentMessage.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\StudentInfo.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\nav.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AttendanceDashboard.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FacultyDashboard.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_GuardianDashboard.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorTargetAssemblyInfo.cs
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.pdb
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.dll
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.pdb
+C:\Users\hp\Desktop\Pendrive\New folder\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csproj.CopyComplete
+E:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.deps.json
+E:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.runtimeconfig.json
+E:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.runtimeconfig.dev.json
+E:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.dll
+E:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.pdb
+E:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.dll
+E:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.pdb
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csprojAssemblyReference.cache
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csproj.CoreCompileInputs.cache
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorAssemblyInfo.cache
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorAssemblyInfo.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.AssemblyInfoInputs.cache
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.AssemblyInfo.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.TagHelpers.input.cache
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.TagHelpers.output.cache
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorCoreGenerate.cache
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceList.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceLogin.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendancePanel.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\ClassAttendanceList.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\DateWiseAttenadanceList.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\EditAttendance.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\Login.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\TakenCourses.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ClassAndCourse.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Dashboard.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Inbox.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\InboxReadMessage.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Login.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ReadMessage.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\SentMessage.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ShowSentMessage.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\StudentInfo.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\StudentList.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Dashboard.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Inbox.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\InboxReadMessage.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Login.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\ReadMessage.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\SentMessage.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\ShowSentMessage.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\StudentInfo.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\nav.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AttendanceDashboard.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FacultyDashboard.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_GuardianDashboard.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorTargetAssemblyInfo.cache
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorTargetAssemblyInfo.cs
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.pdb
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.dll
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.pdb
+E:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csproj.CopyComplete
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceList.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceLogin.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendancePanel.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\Login.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\TakenCourses.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ClassAndCourse.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Dashboard.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Inbox.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\InboxReadMessage.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Login.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ReadMessage.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\SentMessage.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ShowSentMessage.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\StudentInfo.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\StudentList.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Dashboard.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Inbox.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\InboxReadMessage.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\ReadMessage.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\SentMessage.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\ShowSentMessage.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\StudentInfo.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\nav.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AttendanceDashboard.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FacultyDashboard.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_GuardianDashboard.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceList.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceLogin.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendancePanel.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\ClassAttendanceList.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\DateWiseAttenadanceList.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\EditAttendance.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\TakenCourses.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ClassAndCourse.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Dashboard.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Inbox.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\InboxReadMessage.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ReadMessage.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\SentMessage.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ShowSentMessage.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\StudentInfo.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\StudentList.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Dashboard.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Inbox.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\InboxReadMessage.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\ReadMessage.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\SentMessage.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\ShowSentMessage.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\StudentInfo.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\nav.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AttendanceDashboard.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FacultyDashboard.g.cshtml.cs
+F:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_GuardianDashboard.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\StudentList.g.cshtml.cs
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\DateWiseAttendanceList.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.deps.json
+G:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.runtimeconfig.json
+G:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.runtimeconfig.dev.json
+G:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.dll
+G:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.pdb
+G:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.dll
+G:\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.pdb
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csprojAssemblyReference.cache
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csproj.CoreCompileInputs.cache
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorAssemblyInfo.cache
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorAssemblyInfo.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.AssemblyInfoInputs.cache
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.AssemblyInfo.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.TagHelpers.input.cache
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.TagHelpers.output.cache
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorCoreGenerate.cache
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceList.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceLogin.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendancePanel.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\DateWiseAttendanceList.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\EditAttendance.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\Login.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\StudentList.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\TakenCourses.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ClassAndCourse.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Dashboard.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Inbox.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\InboxReadMessage.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Login.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ReadMessage.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\SentMessage.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ShowSentMessage.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\StudentInfo.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\StudentList.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Dashboard.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Inbox.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\InboxReadMessage.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Login.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\ReadMessage.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\SentMessage.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\ShowSentMessage.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\StudentInfo.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\nav.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AttendanceDashboard.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FacultyDashboard.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_GuardianDashboard.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorTargetAssemblyInfo.cache
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorTargetAssemblyInfo.cs
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.pdb
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.dll
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.pdb
+G:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csproj.CopyComplete
+I:\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendancePercentage.g.cshtml.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csprojAssemblyReference.cache
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorAssemblyInfo.cache
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorAssemblyInfo.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.AssemblyInfoInputs.cache
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.AssemblyInfo.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.dll
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.pdb
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.deps.json
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.runtimeconfig.json
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.runtimeconfig.dev.json
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.dll
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.pdb
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.dll
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.pdb
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.TagHelpers.input.cache
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.TagHelpers.output.cache
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorCoreGenerate.cache
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorTargetAssemblyInfo.cache
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.RazorTargetAssemblyInfo.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.Views.pdb
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\AttendenceManagementSystem.csproj.CopyComplete
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\appsettings.json
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceList.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceLogin.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendancePanel.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendancePercentage.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceView.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\ClassAttendanceList.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\DateWiseAttenadanceList.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\DateWiseAttendanceList.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\EditAttendance.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\Login.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\StudentList.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\TakenCourses.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ClassAndCourse.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ClassAttendanceList.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Dashboard.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\DateWiseAttenadanceList.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\EditAttendance.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Inbox.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\InboxReadMessage.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Login.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ReadMessage.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Sent.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\SentMessage.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\ShowSentMessage.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\StudentInfo.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\StudentList.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\About.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Dashboard.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Inbox.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\InboxReadMessage.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Login.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\ReadMessage.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\Sent.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\SentMessage.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\ShowSentMessage.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Guardian\StudentInfo.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\nav.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AttendanceDashboard.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FacultyDashboard.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_GuardianDashboard.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\IUBAT\AttendenceManagementSystem\AttendenceManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs

@@ -1,0 +1,51 @@
+﻿@model AttendenceManagementSystem.ViewModel.AttendanceLoginViewModel
+@{
+    ViewData["Title"] = "AttendanceLogin";
+}
+
+@Html.Partial("_AttendanceDashboard")
+
+<div class="container">
+    <div class="container-fluid" style="padding-top:20px;padding-bottom:80px;position:relative;">
+        <h4 class="text-center" style="">Sign in to take Attendance</h4>
+        <div class="card" style="margin-left:50%;transform: translateX(-50%);position:relative;">
+                <div class="card-body">
+                    <form asp-controller="Attendance" asp-action="AttendanceList" method="post">
+                        <div class="form-group">
+                            <div class="validate-input">
+                                <input asp-for="dateVM" class="form-control form-control-sm" type="date" id="name">
+                                <span asp-validation-for="dateVM"></span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="validate-input">
+                                <select asp-for="timeIdVM" asp-items="@ViewBag.Time" class="form-control form-control-sm">
+                                    <option hidden disabled selected>Select Time</option>
+
+                                </select>
+                                <span asp-validation-for="timeIdVM"></span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="validate-input">
+                                <select asp-for="classIdVM" asp-items="@ViewBag.ClassName" class="form-control form-control-sm">
+                                    <option hidden disabled selected>Select Class</option>
+                                </select>
+                                <span asp-validation-for="classIdVM"></span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="validate-input">
+                                <select asp-for="courseIdVM" asp-items="@ViewBag.CourseName" class="form-control form-control-sm">
+                                    <option hidden disabled selected>Select Course</option>
+                                </select>
+                                <span asp-validation-for="courseIdVM"></span>
+                            </div>
+                        </div>                        
+                        <button type="submit" class="btn btn-primary btn-block">Login</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+

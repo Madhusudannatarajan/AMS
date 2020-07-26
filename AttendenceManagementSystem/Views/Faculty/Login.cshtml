@@ -1,0 +1,27 @@
+﻿
+@model AttendenceManagementSystem.Models.Faculty
+@{
+    ViewData["Title"] = "Faculty Login";
+}
+
+@Html.Partial("nav")
+
+<div class="container">
+    <div class="container-fluid" style="padding-top:80px;padding-bottom:60px;position:relative;">
+        <h3 class="text-center">Sign in to Faculty Dashboard</h3>
+        <div class="card" style="width:380px;margin-left: 50%;transform: translateX(-50%);">
+            <div class="card-body">
+                <form asp-controller="Faculty" asp-action="Login" method="post">
+                    <div class="form-group">
+                        <input asp-for="UserName" class="form-control form-control-sm" type="text" id="name" placeholder="Username">
+                    </div>
+                    <div class="form-group">
+                        <input asp-for="Password" class="form-control" type="password" id="password" placeholder="Password">
+                    </div>
+                    <span style="color:red;">@ViewBag.S</span>
+                    <button type="submit" class="btn btn-primary btn-block">Login</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

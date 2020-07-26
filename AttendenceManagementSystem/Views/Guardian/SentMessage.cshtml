@@ -1,0 +1,28 @@
+﻿@model AttendenceManagementSystem.Models.MessageList
+
+@{
+    ViewData["Title"] = "SentMessage";
+}
+@Html.Partial("_GuardianDashboard")
+
+<div class="container">
+    <div class="container-fluid" style="padding-top:60px;padding-bottom:60px;position:relative;">
+        <h2 class="text-center">Sent Message</h2>
+        <div class="card" style="margin-left: 50%;transform: translateX(-50%);width:60%;">
+            <div class="card-body">
+                <form asp-controller="Gaurdian" asp-action="SentMessage" method="post">
+                    <div class="form-group">
+                        <label asp-for="MessageTitle">Title</label>
+                        <input asp-for="MessageTitle" type="text" class="form-control" placeholder="Title...">                        
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="MessageDetail">Message</label>
+                        <textarea asp-for="MessageDetail" type="text" class="form-control" rows="3" placeholder="Message Detail..."></textarea>                        
+                    </div>
+                    <span style="color:red;font-size:20px;">@ViewBag.ErrorMessage</span>
+                    <button type="submit" class="btn btn-primary btn-block" asp-route-TeachId="@ViewBag.TeacherId">Sent</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewData["Title"] = "Dashboard";
+}
+@model List<AttendenceManagementSystem.ViewModel.FTcourses>
+
+@Html.Partial("_FacultyDashboard")
+
+<div class="container">
+    <div class="container-fluid" style="padding-top:60px;padding-bottom:60px;position:relative;">
+        <h1 class="text-center">My Profile</h1>
+        <div class="card" style="margin-left: 50%;transform: translateX(-50%);width:100%;">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-6" style="border-right:2px solid">
+                        <i class="fas fa-user fa-8x"></i>
+                        <h5>Id :@ViewBag.j.id</h5>
+                        <h5>Name : @ViewBag.j.FirstName &nbsp; @ViewBag.j.LastName</h5>
+                        <h5>Gender :  @ViewBag.j.Gender</h5>
+                        <h5>Phone :  @ViewBag.j.Phone</h5>
+                        <h5>Email :  @ViewBag.j.Email</h5>
+                    </div>
+                    <div class="col-6">
+                        @*<i class="fas fa-book-open fa-7x"></i>*@
+                        <h5 style="border-bottom:2px solid">Course Taken:</h5>
+                        <table class="table table-bordered">
+                            <thead>
+                                <tr>
+                                    <th>Class</th>
+                                    <th>Course</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>@item.classname</td>
+                                        <td>@item.coursename</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewData["Title"] = "EditAttendance";
+}
+@Html.Partial("_AttendanceDashboard")
+
+<div class="container">
+    <div class="container-fluid" style="padding-top:60px;padding-bottom:60px;position:relative;">
+        <h2 class="text-center">Edit Attendance</h2>
+        <div class="card" style="width:700px;height:320px;margin-left: 50%;transform: translateX(-50%);">
+            <div class="card-body">
+                <h5>CLass : Six</h5>
+                <h5>Subject : Bangla</h5>
+                <h5>Date : 17/09/19</h5>
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Name</th>
+                            <th>Status</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Rashedul Islam</td>
+                            <td>
+                                <select>
+                                    <option selected>Present</option>
+                                    <option value="1">Absent</option>
+                                </select>
+                            </td>
+                            <td><a asp-controller="Attendance" asp-action="SaveEditAttendance"><button type="button" class="btn btn-outline-secondary">Save</button></a></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+

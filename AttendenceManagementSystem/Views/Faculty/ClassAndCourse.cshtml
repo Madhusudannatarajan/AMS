@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewData["Title"] = "ClassAndCourse";
+}
+
+@Html.Partial("_FacultyDashboard")
+
+<div class="container">
+    <div class="container-fluid" style="padding-top:60px;padding-bottom:60px;position:relative;">
+        <h2 class="text-center">Classes And Courses</h2>
+        <div class="card" style="width:700px;height:320px;margin-left: 50%;transform: translateX(-50%);">
+            <div class="card-body">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+
+                            <th>Class</th>
+                            <th>Course</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        <tr>
+                            <td>Six</td>
+                            <td>Bangla</td>
+                            <td><a asp-controller="Faculty" asp-action="DateWiseAttenadanceList"><button type="button" class="btn btn-outline-secondary">Details</button></a></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+

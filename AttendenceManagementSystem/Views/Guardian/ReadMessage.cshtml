@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "ReadMessage";
+}
+
+@Html.Partial("_GuardianDashboard")
+
+<div class="container">
+    <div class="container-fluid" style="padding-top:60px;padding-bottom:60px;position:relative;">
+        <div class="card" style="margin-left: 50%;transform: translateX(-50%);width:80%;">
+            <div class="card-body">
+                <h6>From:-@ViewBag.grdname</h6>
+                <h6>To:-@ViewBag.facultyname</h6>
+                <h6>Date:-@ViewBag.msgdate</h6>
+                <h6>Time:-@ViewBag.msgtime</h6>
+                <br>
+                <h6 style="text-decoration:underline;">Title:-</h6>
+                <p>@ViewBag.msgtitle</p>
+                <h6 style="text-decoration:underline;">Message:-</h6>
+                <p>@ViewBag.msgdetail</p>
+            </div>
+        </div>
+    </div>
+</div>

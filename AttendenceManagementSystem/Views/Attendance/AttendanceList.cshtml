@@ -1,0 +1,90 @@
+﻿
+@model List<AttendenceManagementSystem.ViewModel.AttendanceStudentListVM>
+
+@{
+    ViewData["Title"] = "AttendanceList";
+}
+@Html.Partial("_AttendanceDashboard")
+
+<div class="container">
+    <div class="container-fluid" style="padding-top:60px;padding-bottom:80px;position:relative;">
+        <div class="card" style="margin-left: 50%;transform: translateX(-50%);position:relative;width:100%;">
+            <div class="card-body">
+                <form asp-controller="Attendance" asp-action="AttendanceTaken" method="post">
+                    <h5 class="text-left">Class : @ViewBag.ClassName.Classname</h5>
+                    <h5 class="text-left">Course : @ViewBag.CourseName.CourseName</h5>
+                    <h5 class="text-left">Class Time : @ViewBag.ClassTime.Time</h5>
+                    <h5 class="text-left" style="border-bottom:2px solid black;">Date : @ViewBag.Date</h5>
+
+                    <table id="table1" class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>Name</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @for (int i = 0; i < Model.Count; i++)
+                            {
+                                <tr>
+                                    <td>
+                                        <input type="hidden" asp-for="@Model[i].classIdVM" />
+                                        <input type="hidden" asp-for="@Model[i].courseIdVM" />
+                                        <input type="hidden" asp-for="@Model[i].dateVM" />
+                                        <input type="hidden" asp-for="@Model[i].timeIdVM" />
+                                        @Model[i].StudentIdVM
+                                        <input type="hidden" asp-for="@Model[i].StudentIdVM" />
+                                    </td>
+                                    <td id="aa">
+                                        @Model[i].StudentNameVM
+                                        <input type="hidden" asp-for="@Model[i].StudentNameVM" />
+                                    </td>
+                                    <td id="aaa">
+                                        <select id="status" asp-for="@Model[i].Status">
+                                            <option value="1">Present</option>
+                                            <option value="0">Absent</option>
+                                            <option value="2">dfgdfg</option>
+                                        </select>
+                                    </td>
+                                </tr>                                                                                                    
+                      }
+                        </tbody>
+                    </table>
+                    <button id="btn1" type="button">Submit</button>
+                    <div class="row">
+                        <div class="col-12">
+                            <h5 id="present" style="float:left;color:green;">@*Total Pesent :*@ </h5>
+                        </div>
+                        <div class="col-12">
+                            <h5 id="absent" style="float:left;color:red">Total Absent : </h5>
+                        </div>
+                        <div class="col-12">
+                            <button type="submit" class="btn btn-primary" style="float:left;">
+                                Submit
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts{
+    <script type="text/javascript">
+        $(document).ready(function () { 
+            var b = 0;
+            $('table tbody tr #aaa #status').each(function () {                
+               // $('#aaa #status').each(function () {
+                    
+                       // var a = $('#status option:selected').text();
+                        var $option = $(this).find('option:selected');
+                        //var value = $option.val();
+                        var text = $option.text();                                              
+                       // alert(a);                   
+                        console.log(b++);                      
+                //});                    
+             });
+           });
+    </script>
+}
